@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF&center=true&width=435&lines=The+sunset+is+beautiful%2C+isn't+it%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Embed+code&pause=1000&color=F70000&background=00FF34&center=true&width=435&lines=The+sunset+is+beautiful%2C+isn't+it%3F)](https://git.io/typing-svg)
